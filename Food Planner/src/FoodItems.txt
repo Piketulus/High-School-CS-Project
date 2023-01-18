@@ -1,0 +1,145 @@
+Hot Dogs
+3
+Western
+Bread buns
+Sausages
+Mustard
+Stop
+Cheese Pizza
+3
+Western
+Cheese
+Flour
+Tomato paste
+Stop
+Coconut Chicken
+3
+Western
+Coconut
+Chicken
+Rice
+Parsley
+Stop
+Lemon Cupcakes
+3
+Desserts
+Lemon
+Flour
+Sugar
+Eggs
+Stop
+Kung Pao Chicken
+5
+Chinese
+Chicken
+Chili
+Nuts
+Peppers
+
+Stop
+Sushi Platter
+5
+Japanese
+Salmon
+Cod
+Rice
+Lettuce
+Seaweed
+
+Stop
+Chocolate Cake
+5
+Desserts
+Chocolate
+Flour
+Eggs
+Cream
+Cherries
+
+Stop
+BBQ Chicken Wings
+5
+Western
+Chicken wings
+BBQ sauce
+
+Stop
+Salmon Fillet
+4
+Western
+Salmon
+Asparagus
+Tomatoes
+
+Stop
+Sausage Spaghetti
+4
+Italian
+Pasta
+Sausage
+Ground beef
+Tomato sauce
+
+Stop
+Carbonara
+4
+Italian
+Cream
+Eggs
+Pasta
+Bacon
+
+Stop
+Chicken Burritos
+4
+Mexican
+Shredded chicken
+Flour tortillas
+Rice
+Beans
+
+Stop
+Sweet and Sour Pork
+4
+Chinese
+Pork
+Flour
+Sweet and sour sauce
+
+Stop
+Pancakes
+4
+Desserts
+Flour
+Eggs
+Maple syrup
+Sugar
+
+Stop
+Tacos
+2
+Mexican
+Tomatoes
+Flour tortillas
+Salad
+Garlic
+Chicken
+Rice
+
+Stop
+Steak and fries
+5
+Western
+Beef
+french fries
+
+Stop
+Spaghetti Bolognaise
+5
+Italian
+Ground meat
+Pasta
+Tomato sauce
+Basil
+
+Stop
